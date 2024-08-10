@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.success {
+  color: green;
+  font-size: 40px;
+}
+.success2 {
+  color: red;
+  font-size: 40px;
+}
+.success3 {
+  color: orange;
+  font-size: 40px;
+}
+.success4 {
+  color: blue;
+  font-size: 40px;
+}
+.all {
+  color: green;
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.all1 {
+  color: red;
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.all2 {
+  color: orange;
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.all3 {
+  color: blue;
+  font-size: 28px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
